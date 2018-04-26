@@ -1,0 +1,112 @@
+
+/* header du jeu */
+.header_game
+{
+height: 100px;
+width: 100%;
+text-align: center;
+background-color: lightgrey;
+margin-top: auto;
+padding-top: 30px;
+font-size: 30px;
+}
+
+/* box du jeu */
+#board_game {
+    width: 714px;
+    height: 412px;
+    margin: 50px auto;
+    border: 7px solid #ddddff;
+}
+.hide {
+    display: none;
+}
+
+/* Carte du jeu et variante */
+.carte {
+    width: 100px;
+    height: 100px;
+    float: left;
+    border: 4px solid #ddddff;
+}
+.image {
+    background: url('../images/cards.png');
+
+}
+div.cache{
+    background-color: #aaaaaa;
+}
+div.cache:hover {
+	transition-duration: 1s;
+	background-color: grey;
+}
+
+.fruit1
+{
+	background-position: 0px 0px;
+}
+
+.fruit2
+{
+	background-position: 0px 100px;
+}
+
+.fruit3
+{
+	background-position: 0px 200px;
+}
+
+.fruit4
+{
+	background-position: 0px 300px;
+}
+
+.fruit5
+{
+	background-position: 0px 400px;
+}
+
+.fruit6
+{
+	background-position: 0px 500px;
+}
+
+.fruit7
+{
+	background-position: 0px 600px;
+}
+
+.fruit8
+{
+	background-position: 0px 700px;
+}
+
+.fruit9
+{
+	background-position: 0px 800px;
+}
+
+.fruit10
+{
+	background-position: 0px 900px;
+}
+
+.fruit11
+{
+	background-position: 0px 1000px;
+}
+
+.fruit12
+{
+	background-position: 0px 1100px;
+}
+
+.fruit13
+{
+	background-position: 0px 1200px;
+}
+
+.fruit14
+{
+	background-position: 0px 1300px;
+}
